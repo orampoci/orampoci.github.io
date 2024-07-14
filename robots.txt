@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://orampoci.github.io/sitemap.html.gz
+Sitemap: https://orampoci.github.io/app/sitemap.html.gz
+Sitemap: https://orampoci.github.io/assets/sitemap.html.gz
+Sitemap: https://orampoci.github.io/css/sitemap.html.gz
+Sitemap: https://orampoci.github.io/includes/sitemap.html.gz
+Sitemap: https://orampoci.github.io/item/sitemap.html.gz
+Sitemap: https://orampoci.github.io/src/sitemap.html.gz
